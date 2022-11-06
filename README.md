@@ -8,7 +8,7 @@
 
 
 
-- // CHANGEZ VOTRE CONFIG ICI:
+- // CHANGEZ VOTRE CONFIG dans le code a cette endroit
 - // =======================================================================
 - const char* ssid     = "Horlorge";     // SSID du point d'accès
 - const char* password = "0123456789";   // Password du point d'accès
