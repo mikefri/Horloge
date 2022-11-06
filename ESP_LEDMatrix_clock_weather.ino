@@ -62,9 +62,9 @@ String weatherString;
 // =======================================================================
 const char* ssid     = "Horlorge";     // SSID du point d'accès
 const char* password = "0123456789";   // Password du point d'accès
-String weatherKey = "8e4335cbecc001f3900cc9ca59f72ba1"; // city id de openweather 
+String weatherKey = "xxxxxxxxxxxxxxxxxxxxxxxxx"; // city id de openweather 
 String weatherLang = "&lang=fr";
-String cityID = "2971317"; // Cityid de openweather
+String cityID = "xxxxxxx"; // Cityid de openweather
 float utcOffset = 1; // France Paris //Changez utcoffset en fonction de votre utc
 // =======================================================================
 
